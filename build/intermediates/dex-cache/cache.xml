@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\c92a11b9fb80dd12e9f2e13fb88114f05a73b698\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1f9df8b2bfff203397548ee400789154968adfe8">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7e90b49722d105e4f079868e6e435fac06195b36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\2b6f82fd9ab66d26a7343a979bb65dec77ffaaba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec7d3099b4e3cf23230c78acaae438f3371e1c19">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d53fe0afe904d16e1a1d7c782db875b2bad4630d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.1\19047bdb6a4fc00a44124f64ca98e88fc204e7e3\okhttp-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.1_98f6af2a21a2d0bb324fcf83d042cded93f5a5ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\a1d0808055cc03a8dbdf2e99fa59e824b0878aca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dc851bdfa02cac1aa5ef1b2e5899d158774b717d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\354582c0969e1109c42ebbacf01281cc45d5dc05\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b9e66ded2f04736c70ce41656051117f4c43269d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_45c477ad0a0115981d32fa25de77226398df410c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\159b80fb3e122eca9c75ffb0780970688727e67b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44098e691b36776973374ac03afe0225b17f8a74">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cbed2fa4efafa6a4dec4e2ed209d729f54beb321\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\b0aaf9b5b7ee0493c515edee6b358d71db16fc47\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="125bce1fb2d481b964fabf75f0949957ebe9ecd1">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_57950157f2d6591011ca7ba1700101d9e773b4be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\d6b22a047d4b09e6a2216f2883a8be83d2c8a7af\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c41c190cf1bfed56b168546f42a7f5e3de20546a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\49f1b4be6c8ed8f862b9086843c7f3a261be04d8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6818f5804ca0b5eb089d902458faea4179eca1d">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8be632e6a8d9abdac8ab50878ce5d65b4517f081\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\5f105bf26d5d114f2fed8bb828e70c5d8ca9c00f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b136ac09f209c1d91fec7db8518e33d4373c8f39">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_80148f8e3800327edd61243fb76273669c6a17e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\f85b8c313567fc9b64b7e1958d581402b97b999c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3c7f923e1df76640acb3a24823600f034a5d226">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ab139d53af431b20d857504930d569ee718ed743\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.gradle\caches\modules-2\files-2.1\com.github.kevinsawicki\http-request\6.0\910c844ccd4653c9f6895dc4b7adce6372a4da03\http-request-6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="910c844ccd4653c9f6895dc4b7adce6372a4da03">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\http-request-6.0_073f97c9dbb46f45f3da9a974a31f06b446bfc36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\3cb74449e9bdb8adb60a41646e4b86b2e201ad49\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d67042688d34474a82fe4ef4c6514ef471377ef">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f119356d44b3aa2c62a31d7ab3320106aaaef306\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\0a9e2e75ae34020ea70c0bd9803ce6557346a5a3\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_7327208c263d31c996465d97b852316ae88e30c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\f6e75fe05692511a18e601810ffc84c989d6f56c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="825c2e97a00df4df5b0f3081faa4fd6280cd7c72">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_02c88ebade3cbe3a2b7a25794264e5407f7a75c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\36ae3fb6ec061a8bc4ac4ade84a24cfacdb0d5e1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c8192e593c23bd66526e6eb4da823cb2ea8fa1b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\2bb557b05ac8f6d8e6754059c4617db68ebb9297\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_43d63d6be39b94c4d3439725a9866011dd4d2a89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\acc271c5f79a4d62837ca8ea984c74db4b175f14\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bfd85a88cf976eb2c54507cc914d8e8914c2f71e">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bdb324a90fb9370b64d29145e59b49b1a9b368ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\1877d49a637e712c8a3b9701199fd3634acd3690\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e684205744f814a73b7752545e0661330415c9e">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c09a794956b67d1367e7dd4ee807c5dff2115ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_5f35b72b290ca68c592407b9a669379c9231221d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_099d9aac0011414fdfbd107c22286d4255001d48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\e09a048cd4e23923049bb4a3c7f91f423733f9d3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3826817a4de1daa170c33bbc04db24ab6826bd5">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d9c02ba054dc62ca00eeb7812260eab938e37238\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\5dd461a2bc9bb68af66db20147d13f23e6cb5951\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f6fef6701600079d8211b9801b01bb55d202aa84\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\da074afcb5288deec6715cff5d03e3b840fafb58\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da29e468486b3080fa0a8655d1d16a29cf09aa40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\a2526ff96ccd77249ed407040812f7a3a9dd6bfd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a458f4365d8911688643a296c7833f9d589b4d9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_07d64ab22eeb5aac5844f0aa23b28f2f5d960424\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\bed79117cc96d9fed386c547fa25f60187cd487a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1d14c3d717df6de6d0acd5d18e6c1e001a7164b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\fb8e61bbe6eab021c89f6b475510d7131ba36c4a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_932aec93552adc9e36c21bfd86825508e1f9fb63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\6146c6d211f44ce04289ae614f323f85595e20e4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d395c5142f474891c7750f13b6a85d14682f166b">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c505df075398776ea45678cf8b5954073c17122d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\33ded28b6c057aac84885b1ac3bc1cfd4b2cdb6e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b1fe1d5e53f4499076c0bfde635950348f25446c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\a473e58fd758e7b97137623ef25a3b9499002041\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_690343497ae3c39fd8e7cd3e2b4373f827513365\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\bd948d36b80c6d4cc6cc34a25ffcd50d2f409aae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f233cb35a6ea92364130d2d48791c461ec65983">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e93d670b3b391d3b43dfaf59ce63dc860542019\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\538734898fabdaaf3fbcaf6e45cf12fa8dbfbb2d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e4f811c49719a83e00989fbd98ed60d4eed92757\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\d2fe4955a423d8c3714a173fd653cf47147ef50f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb004ea36f8802bad30000e286c177691740a322">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f236e8508a7f98072611d055efe83938bf1cdc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\d0af781f0add0333a7f294082296cd1ac666fd97\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12032271e6be735e811ad529cb08ff066c381640">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8340079febddcc9fe3d1922d77acc0ea63cb7c42\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\2658769e4fb1eb5aca10625ebcf5285b547aa140\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da5c606c36276a12a356e351882044c6b4b9e8d4">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f3f5155be27bde6e06d34eb46f3499abdd4a6156\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\13db0a66650a0532b77cfdb986301f66455e71bd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b526c5f6889fc98d81d3dc004b2592927ddd8576\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\2317975a613dfd495b922f39a1b02ece210cd38b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e13a36d74f921bddd382a65338fa92a6c49147f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\506e57f882d552556fda8c5f65cac0c62184c425\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f55afc72dcc006972fbc28efc196a02af8cf9cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\2611711c69f7dc7c2acf011380c8ce1e8764ebd5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c5d212b42b9a1b5e4c1029ce3c6c732d9a80d565\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\c95a6f7fcf17ca23ac00ec74a398ee26b53ee3a9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8e1ad87fa482e55580c62a5e862a0fe7e113dd17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\163cb773db1b3fb3d8f400194524531dae154a6d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfa47e1b140562d47bc670629d07e209cd8b02c4">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f286f21a72e22ca85b57525d9c93f39cc2b068e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\44cc3b128aa9eb82032fccd67533ca8f964b0516\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cce5792fa30ee8520620f298bf920309423b180f">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ba48362d253201d7e76f2335b83fe74e0f3c47d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_654a1c71889d7bd4d690d9708c2869def26f828f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\a475033955612fa47b2791583844b22efaf6af22\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1cbdcad0cb0bc0692dd3dc80f68c36779c8b5c60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_fd5e0f01a871b51dc9032f01ab84eaad51a95428\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\b9424cb6623328baa3f6c4b5531723af3e9e8301\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3b9bf545fa39501d8c21a901939b04ca386e4f58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.3.1\99ce730034c6f5aaed710d1e0e9df95e8714ed5f\logging-interceptor-3.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.3.1_1f6f3de98ead9bc34bcc4400ae4e58979dcda675\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\9677cbfc34652ad394fb2efa66d0b18d21cca5b7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab8343c3aadefce37313ceadd8bc4db1993f2ff0">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0011f3ea04a1ed75c0d90d3013950136dad06360\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\8a84c07db81b3552d54c18ca097c8f0ce1e38df3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efae381df589f3d4977c346c8a980f030315bb8b">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_46f0889499d6b465e84dfcdb1ff6adb3a0c7ab0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_ef2b82bf3cae477dcb0b836e7d97d04ca780fb72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\9abd6c2e0d2b0bfa88c3218e23eef71813d8ffc5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0bb2f0934fa55799508ba58ffc9ba579b35744b8">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4dfdfb08e5688d6fc4174f48c2e8526b7ca0ab1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\599d49a921e26345ab4b3df337e1323f31606109\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_11ae87a36a814dd88a75ce8c137cefe381f929b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\97f83f23cee43e0a3f6378c78ef0cf2e55b7cdde\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7ba26433d9e9f4429d83ff65ad79bfc801dc00a">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e0df27508665ef86e7b707e9c8c6c82007d911cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\f30838e6e3c19488e03cbf2cef2f38161f623e46\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8dfe54fbaf4f2a27d395ddf806d0c011170999e0">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_52cc748262e347ab687308882f061a7acfa3052e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\8a34579e149506b5d2dc65aa463c6f2f906d94d3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="536fd6afd6e1280607c5d70306eb32d385db7964">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_40cb09d69d051e4a8d38348108574cf14649d674\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\2eafbaa0e9a6eef120e2b8ee6d966f86570ee514\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5840eb79386e52d62756d06751777831f7a5ea32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\923fcd7e80f79a2768d7d6e2511a0a6f56848db9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_10f6c183fd9eb77e2443ba49f0c8acbe922f37b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\2d9b4b46adfab82b9721b3be737ecb67b4b6a9e6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a1bac2cc31df44dbf1f9bbf2c675319503c9271">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_deb642e3a25f56779a0000b8443912618665bd97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\eaa68e1de70e8376246ae558c43023577941ed85\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b32372f6821e003ae24cd3389bdd7925247f100">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d85570ea92d83dd1a0da5befb2ed0fd660e7007c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\c128567c80ef1beb46fb3f98a9e531f0599182c8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4851331b3944beb6e7f77316a7661f53781da62">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d7d9b045810a73e6ec1fa633479fd95d13dc7c52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\1c93ef731d15a9e73c4ffe505d67b310818a81a4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9297b87526dedfefa3cd3bf43eff3cbd9693d209\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\c8c8889d488da34f9ccc1549b953d7454068187d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_76ae5627a7031c09b7796b8f9ad5b982e3338f6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\0a9e2e75ae34020ea70c0bd9803ce6557346a5a3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8b13412091cf7fb6bb283cc2b5758e317e171ba6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_55032c203a65275a826e8c7ff7d716926d3eca43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\c3b69c662912b8f4d88cfcefe18273002b1ade79\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_39fae18c02aa26f19f2af87cd71db86d2d74bcc5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\cc53191c2ccb8da1376afd1769af3fd95880041b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ee29abfc804ebd51d65a4bde424c0ee74363939">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c6a5a0576135964d3be07c2a217295f56925d8e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\5f044f319d684805c5b6dce2b863cd4a980c1ffd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dbae35d7fc3427d30bef0037bdf61ad0d8d984f8">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d4492ca0a772f085e852e161e123a276498fe783\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\6a5c4db99b9ea03c1a2e1439fb344090c0a77da1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a0ae48bc47b667a5c2867c7256df9ccddfe989b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\d2980a9468e7381b2de8962c61709c0aff5abe6c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_29e8bfd2a8f5eabc1a2bd397ba50b96104d94c0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\c91f0441b2d48ccc0eeac4f31def49ce9a60aea6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3683531139103cc263b71d8b5ac6062832a8fd30">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d69942d98818fd5e9abc841b81dc07a5f6619e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\21df907d131519806a676ee14f6eb923ce45e95e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_83b6cf15a0bf14c14f9e38e5f53ab5cde03b0158\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bef887194592dbd88236342d8ccf87baeb40283d">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_579710a2f259821548576b39804d1e40e0b6fb9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\d43cf34d153fe656b08444c7fccb4026674e7816\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="abf7c64e0bbaaa931738856734f76646ae62d9a5">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b7cfab38c9896b212794a93f02ee7860509eb26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\275d937881297159c87b6a673caea9e788add048\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b827a72ca54a4756b6b57f1eb3ee5f9c996b4e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\d1ce9e7f4ad24242a8ff8d4a449117da73481bfb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d81a3b0a16f48b4456f442552b62f4b1a472ce24">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c8d5dcaff0e842b478fc7b23e116eb4982c254d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\01c6108923d96843e2d7c0bdd25b9791150bc335\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c74dab42788b458960618238f338d324b6f0656">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_da841a7aa4c6257cb3d4673853fd7158f62de585\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\89a0c84e0f32a3640a730ddfc0b1b28aa6a110a4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b2349ddfe04831042844cbf055e5a072da37ddf8">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e7486a7e3f79c3153377c95cd0e9274729a6f5dd\classes.dex" />
+    </item>
+
+</items>

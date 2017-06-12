@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "554624560003",
+    "firebase_url": "https://myshopandroid-4b701.firebaseio.com",
+    "project_id": "myshopandroid-4b701",
+    "storage_bucket": "myshopandroid-4b701.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554624560003:android:1ce3aeeaa77d3f7c",
+        "android_client_info": {
+          "package_name": "tecsup.edu.myshop_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554624560003-f6fi819i0qe2ns894scoss22e1a1quus.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tecsup.edu.myshop_android",
+            "certificate_hash": "fdf5bb8c06ee1f15d9b0332d13e3d53e7b558f9f"
+          }
+        },
+        {
+          "client_id": "554624560003-6ada6kpaalvp3freaihb5dj2pk76k5jk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tecsup.edu.myshop_android",
+            "certificate_hash": "3eeea2957c2509bc7e35b0bcf496bc0a693ea052"
+          }
+        },
+        {
+          "client_id": "554624560003-v83096a3qj7i7fp0gs2hl2j24es4onhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxlgB3iXgBHZWcgNf9pzVPPHTcOB-3bVA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554624560003-v83096a3qj7i7fp0gs2hl2j24es4onhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
