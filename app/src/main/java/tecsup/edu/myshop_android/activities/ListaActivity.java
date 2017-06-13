@@ -95,4 +95,5 @@ public class ListaActivity extends AppCompatActivity {
             initialize();
         }
     }
+
 }
