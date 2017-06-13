@@ -37,7 +37,7 @@ public class ProductosAdapter extends RecyclerView.Adapter<ProductosAdapter.View
         public ImageView fotoImage;
         public TextView nombreText;
         public TextView marcaText;
-        public TextView direccionText;
+        public TextView tiendaText;
         public TextView precioText;
 
         public ViewHolder(View itemView) {
@@ -45,7 +45,7 @@ public class ProductosAdapter extends RecyclerView.Adapter<ProductosAdapter.View
             fotoImage = (ImageView) itemView.findViewById(R.id.foto_image);
             nombreText = (TextView) itemView.findViewById(R.id.nombre_text);
             marcaText = (TextView) itemView.findViewById(R.id.marca_text);
-            direccionText = (TextView) itemView.findViewById(R.id.direccion_text);
+            tiendaText = (TextView) itemView.findViewById(R.id.tienda_text);
             precioText = (TextView) itemView.findViewById(R.id.precio_text);
         }
     }
@@ -63,7 +63,7 @@ public class ProductosAdapter extends RecyclerView.Adapter<ProductosAdapter.View
 
         viewHolder.nombreText.setText(producto.getNombre());
         viewHolder.marcaText.setText(producto.getMarca());
-        viewHolder.direccionText.setText(producto.getDirreccion());
+        viewHolder.tiendaText.setText(producto.getTienda());
         viewHolder.precioText.setText("S/. " + producto.getPrecio());
 
         String url = ApiService.API_BASE_URL + "/images/" + producto.getImagen();

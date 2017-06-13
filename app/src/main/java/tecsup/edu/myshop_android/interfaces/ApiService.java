@@ -20,25 +20,9 @@ import tecsup.edu.myshop_android.models.Producto;
 
 public interface ApiService {
 
-    String API_BASE_URL = "https://myshop-tecsup-claudia135.c9users.io/";
+    String API_BASE_URL = "hhttps://myshop-android-claudia135.c9users.io/";
 
     @GET("api/v1/productos")
     Call<List<Producto>> getProductos();
 
-    @FormUrlEncoded
-    @POST("/api/v1/productos")
-    Call<ResponseMessage> createProducto(@Field("nombre") String nombre,
-                                         @Field("marca") String marca,
-                                         @Field("direccion") String direccion,
-                                         @Field("precio") String precio);
-
-    @Multipart
-    @POST("/api/v1/productos")
-    Call<ResponseMessage> createProductoWithImage(
-            @Part("nombre") RequestBody nombre,
-            @Part("marca") RequestBody marca,
-            @Part("direccion") RequestBody direccion,
-            @Part("precio") RequestBody precio,
-            @Part MultipartBody.Part imagen
-    );
 }

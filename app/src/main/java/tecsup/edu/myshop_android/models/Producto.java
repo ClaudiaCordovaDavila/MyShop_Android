@@ -5,7 +5,7 @@ public class Producto {
     private String nombre;
     private String precio;
     private String marca;
-    private String dirreccion;
+    private String tienda;
     private String imagen;
 
     public Integer getId() {
@@ -32,11 +32,11 @@ public class Producto {
     public void setMarca(String marca) {
         this.marca = marca;
     }
-    public String getDirreccion() {
-        return dirreccion;
+    public String getTienda() {
+        return tienda;
     }
-    public void setDirreccion(String dirreccion) {
-        this.dirreccion = dirreccion;
+    public void setTienda(String tienda) {
+        this.tienda = tienda;
     }
     public String getImagen() {
         return imagen;
@@ -51,7 +51,7 @@ public class Producto {
                 ", nombre='" + nombre + '\'' +
                 ", precio='" + precio + '\'' +
                 ", marca='" + marca + '\'' +
-                ", dirreccion='" + dirreccion + '\'' +
+                ", tienda='" + tienda + '\'' +
                 ", imagen='" + imagen + '\'' +
                 ']';
     }
