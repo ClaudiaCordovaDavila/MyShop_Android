@@ -20,7 +20,7 @@ import tecsup.edu.myshop_android.models.Producto;
 
 public interface ApiService {
 
-    String API_BASE_URL = "hhttps://myshop-android-claudia135.c9users.io/";
+    String API_BASE_URL = "https://myshop-android-claudia135.c9users.io/";
 
     @GET("api/v1/productos")
     Call<List<Producto>> getProductos();
