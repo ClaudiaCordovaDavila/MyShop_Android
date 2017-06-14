@@ -12,6 +12,8 @@
             android:id="@+id/imagen_detalle"
             android:layout_width="match_parent"
             android:layout_height="180dp"
+            android:scaleType="fitCenter"
+            android:layout_gravity="center"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
             app:srcCompat="@android:drawable/ic_menu_report_image" />

@@ -66,6 +66,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Claudia\.android\build-cache\b11cf557149a85ee70bb30ae1b820c591ab9f747\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d35dd9f757422a5fe8e1b82e7709876b8d35437b">
+        <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3a567599e793e9e65c9ee9a001f6ba1fef14f4d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Claudia\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
         jumboMode="true"
         optimize="true"
@@ -466,7 +475,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="deaa638edfc57c9bc5d2448998e9254eed3f91f5">
+        sha1="5786e93b1f965b55bc600581b3c460d966fced3b">
         <dex dex="G:\4to ciclo\Programacion en movil\MyShop_Android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_579710a2f259821548576b39804d1e40e0b6fb9a\classes.dex" />
     </item>
     <item

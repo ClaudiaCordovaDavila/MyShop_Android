@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="snappyimageviewer-1.1.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/b11cf557149a85ee70bb30ae1b820c591ab9f747/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/b11cf557149a85ee70bb30ae1b820c591ab9f747/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nshmura/snappyimageviewer/1.1.0/f420cbacf3202b947283463123db23e6189fd490/snappyimageviewer-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

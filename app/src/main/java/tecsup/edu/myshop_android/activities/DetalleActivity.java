@@ -10,12 +10,15 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.squareup.picasso.Picasso;
+
 import java.util.List;
 
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 import retrofit2.http.Field;
+import tecsup.edu.myshop_android.ImagenActivity;
 import tecsup.edu.myshop_android.R;
 import tecsup.edu.myshop_android.adapters.ProductosAdapter;
 import tecsup.edu.myshop_android.interfaces.ApiService;
@@ -54,6 +57,23 @@ public class DetalleActivity extends AppCompatActivity {
 
         // Llamar al servicio show
         initialize();
+
+
+        //Visualizar Imagen
+        final ImageView imageView = (ImageView) findViewById(R.id.imagen_detalle);
+
+        final String uri = "http://www.gloria.com.pe/images/gloria/evaporada_entera_022.jpg";
+
+        Picasso.with(this)
+                .load(uri)
+                .into(imageView);
+
+        imageView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                ImagenActivity.start(DetalleActivity.this, uri, imageView);
+            }
+        });
     }
 
     private void initialize() {
