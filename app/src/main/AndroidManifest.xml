@@ -25,13 +25,13 @@
         android:theme="@style/AppTheme">
         <activity
             android:name=".activities.BienvenidaActivity"
-            android:theme="@style/Theme.AppCompat.NoActionBar" />
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".activities.MainActivity"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".activities.BusquedaActivity"
-            android:theme="@style/Theme.AppCompat.NoActionBar">
+            android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -43,10 +43,10 @@
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".activities.ListaActivity"
-            android:theme="@style/Theme.AppCompat.NoActionBar" />
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".activities.DetalleActivity"
-            android:theme="@style/Theme.AppCompat.NoActionBar" />
+            android:theme="@style/AppTheme.NoActionBar" />
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
              (See the file "res/values/google_maps_api.xml").
@@ -63,7 +63,8 @@
             android:name=".activities.MapsActivity"
             android:label="@string/title_activity_maps"
             android:theme="@style/Theme.AppCompat.NoActionBar" />
-        <activity android:name=".ImagenActivity"></activity>
+        <activity android:name=".ImagenActivity"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
