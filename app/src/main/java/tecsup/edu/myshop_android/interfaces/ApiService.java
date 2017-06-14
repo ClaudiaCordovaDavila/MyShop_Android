@@ -11,6 +11,7 @@ import retrofit2.http.GET;
 import retrofit2.http.Multipart;
 import retrofit2.http.POST;
 import retrofit2.http.Part;
+import retrofit2.http.Path;
 import tecsup.edu.myshop_android.ResponseMessage;
 import tecsup.edu.myshop_android.models.Producto;
 
@@ -24,5 +25,12 @@ public interface ApiService {
 
     @GET("api/v1/productos")
     Call<List<Producto>> getProductos();
+
+    @GET("api/v1/productos/{id}")
+    Call<Producto> getProducto(@Path("id") Integer id);
+
+    @FormUrlEncoded
+    @POST("api/v1/productos/buscar")
+    Call<List<Producto>> buscarProductos(@Field("nombre") String nombre);
 
 }

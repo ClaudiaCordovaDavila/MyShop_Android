@@ -1,5 +1,7 @@
 package tecsup.edu.myshop_android.adapters;
 
+import android.app.Activity;
+import android.content.Intent;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -13,6 +15,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import tecsup.edu.myshop_android.R;
+import tecsup.edu.myshop_android.activities.DetalleActivity;
 import tecsup.edu.myshop_android.interfaces.ApiService;
 import tecsup.edu.myshop_android.models.Producto;
 
@@ -24,8 +27,11 @@ public class ProductosAdapter extends RecyclerView.Adapter<ProductosAdapter.View
 
     private List<Producto> productos;
 
-    public ProductosAdapter(){
+    private Activity activity;
+
+    public ProductosAdapter(Activity activity){
         this.productos = new ArrayList<>();
+        this.activity = activity;
     }
 
     public void setProductos(List<Producto> productos){
@@ -59,7 +65,7 @@ public class ProductosAdapter extends RecyclerView.Adapter<ProductosAdapter.View
     @Override
     public void onBindViewHolder(ProductosAdapter.ViewHolder viewHolder, int position) {
 
-        Producto producto = this.productos.get(position);
+        final Producto producto = this.productos.get(position);
 
         viewHolder.nombreText.setText(producto.getNombre());
         viewHolder.marcaText.setText(producto.getMarca());
@@ -68,6 +74,15 @@ public class ProductosAdapter extends RecyclerView.Adapter<ProductosAdapter.View
 
         String url = ApiService.API_BASE_URL + "/images/" + producto.getImagen();
         Picasso.with(viewHolder.itemView.getContext()).load(url).into(viewHolder.fotoImage);
+
+        viewHolder.itemView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(activity, DetalleActivity.class);
+                intent.putExtra("id", producto.getId());
+                activity.startActivity(intent);
+            }
+        });
 
     }
 

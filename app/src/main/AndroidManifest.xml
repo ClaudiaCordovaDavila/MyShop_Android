@@ -29,7 +29,8 @@
         <activity
             android:name=".activities.MainActivity"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".activities.BusquedaActivity">
+        <activity android:name=".activities.BusquedaActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -39,7 +40,10 @@
         <activity
             android:name=".activities.RegistroActivity"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".activities.ListaActivity" />
+        <activity android:name=".activities.ListaActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity android:name=".activities.DetalleActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
              (See the file "res/values/google_maps_api.xml").
@@ -54,7 +58,8 @@
 
         <activity
             android:name=".activities.MapsActivity"
-            android:label="@string/title_activity_maps"></activity>
+            android:label="@string/title_activity_maps"
+            android:theme="@style/Theme.AppCompat.NoActionBar"></activity>
     </application>
 
 </manifest>

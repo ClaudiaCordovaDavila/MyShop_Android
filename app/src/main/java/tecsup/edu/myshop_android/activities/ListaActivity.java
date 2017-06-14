@@ -22,7 +22,7 @@ import tecsup.edu.myshop_android.singleton.ApiServiceGenerator;
 
 public class ListaActivity extends AppCompatActivity {
 
-    private static final String TAG = MainActivity.class.getSimpleName();
+    private static final String TAG = ListaActivity.class.getSimpleName();
     private RecyclerView productosList;
     private static final int REGISTER_FORM_REQUEST = 100;
 
@@ -34,7 +34,7 @@ public class ListaActivity extends AppCompatActivity {
         productosList = (RecyclerView) findViewById(R.id.recyclerview);
         productosList.setLayoutManager(new LinearLayoutManager(this));
 
-        productosList.setAdapter(new ProductosAdapter());
+        productosList.setAdapter(new ProductosAdapter(this));
 
         initialize();
     }

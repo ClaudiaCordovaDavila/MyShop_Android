@@ -1,5 +1,7 @@
 package tecsup.edu.myshop_android.adapters;
 
+import android.app.Activity;
+import android.content.Intent;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -13,6 +15,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 import tecsup.edu.myshop_android.R;
+import tecsup.edu.myshop_android.activities.DetalleActivity;
+import tecsup.edu.myshop_android.activities.ListaActivity;
 import tecsup.edu.myshop_android.interfaces.ApiService;
 import tecsup.edu.myshop_android.models.Producto;
 import tecsup.edu.myshop_android.models.Tienda;
@@ -21,11 +25,14 @@ import tecsup.edu.myshop_android.models.Tienda;
  * Created by CLAUDIA on 23/05/2017.
  */
 
+@Deprecated
 public class DetallesAdapter extends RecyclerView.Adapter<DetallesAdapter.ViewHolder> {
 
     private List<Producto> productos;
 
     private  List<Tienda> tiendas;
+
+
 
     public DetallesAdapter(){
         this.productos = new ArrayList<>();
@@ -34,6 +41,7 @@ public class DetallesAdapter extends RecyclerView.Adapter<DetallesAdapter.ViewHo
 
     public void setProductos(List<Producto> productos){
         this.productos = productos;
+//        this.activity = activity;
     }
 
     public void setTiendas(List<Tienda> tiendas){
@@ -69,7 +77,7 @@ public class DetallesAdapter extends RecyclerView.Adapter<DetallesAdapter.ViewHo
     }
 
     @Override
-    public void onBindViewHolder(DetallesAdapter.ViewHolder viewHolder, int position) {
+    public void onBindViewHolder(final DetallesAdapter.ViewHolder viewHolder, int position) {
 
         Producto producto = this.productos.get(position);
         Tienda tienda = this.tiendas.get(position);
@@ -83,6 +91,8 @@ public class DetallesAdapter extends RecyclerView.Adapter<DetallesAdapter.ViewHo
 
         String url = ApiService.API_BASE_URL + "/images/" + producto.getImagen();
         Picasso.with(viewHolder.itemView.getContext()).load(url).into(viewHolder.imagenDetalle);
+
+
 
     }
 
