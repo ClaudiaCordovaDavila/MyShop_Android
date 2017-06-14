@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "554624560003-faa99n9e567247lteg1f34ekrb8vi7so.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tecsup.edu.myshop_android",
+            "certificate_hash": "5a67bfc4c6464fca94186e9f479944139fd95728"
+          }
+        },
+        {
           "client_id": "554624560003-f6fi819i0qe2ns894scoss22e1a1quus.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
